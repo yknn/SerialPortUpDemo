@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SerialPortUpDemo</string>
+    <string name="action_settings">Settings</string>
+</resources>
